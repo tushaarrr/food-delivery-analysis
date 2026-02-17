@@ -1,4 +1,4 @@
-# 🚀 DeliverIQ — Zomato Delivery Analytics & Prediction
+# 🚀 DeliverIQ —  Delivery Analytics & Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=flat-square&logo=mysql)
